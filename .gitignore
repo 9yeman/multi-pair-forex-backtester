@@ -1,0 +1,11 @@
+# Ignore data folders
+data/raw/
+data/cleaned/
+data/timeframes/
+
+# Ignore dataset files
+*.csv
+*.xlsx
+
+# Ignore notebook hidden files
+.ipynb_checkpoints/

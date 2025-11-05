@@ -1,0 +1,8 @@
+pandas
+numpy
+matplotlib
+jupyter
+tqdm
+os
+math
+re
